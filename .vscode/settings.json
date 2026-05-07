@@ -1,0 +1,12 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "php": "html"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "files.associations": {
+    "*.php": "php"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
